@@ -1,0 +1,15 @@
+{
+  "name": "markdowntopdf2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://kubec.visualstudio.com/MarkdownToPdf/_git/MarkdownToPdf"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,10 @@
+
+Plan:
+image element type, styling
+image plugin
+
+Roman numerals
+auto TOC
+plugins
+higlight
+math  - wpf-math
