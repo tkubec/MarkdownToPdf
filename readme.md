@@ -40,9 +40,9 @@ pdf
 
 Please see the documentation for more information. Here are some sample PDF outputs: 
  
- - [Feature Overview (PDF)](https://github.com/tkubec/MarkdownToPdf/blob/master/Tests/output/book_alice.pdf)
+ - [Feature Overview (PDF)](https://github.com/tkubec/MarkdownToPdf/blob/master/Tests/output/features.pdf)
  
- - [Entire book (PDF)](https://github.com/tkubec/MarkdownToPdf/blob/master/Tests/output/features.pdf)
+ - [Entire book (PDF)](https://github.com/tkubec/MarkdownToPdf/blob/master/Tests/output/book_alice.pdf)
  
 # Installation
 
