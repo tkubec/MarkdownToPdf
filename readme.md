@@ -14,7 +14,7 @@ MarkdownToPdf is a .NET library serving as a converter of markdown text to PDF. 
  - Mathematics/Latex extension by enclosing $$ for block and $ for inline math
  - SmartyPants 
 
-For details, see [markdig documentation](https://github.com/xoofx/markdig)  and this [project documentation]().
+For details, see [markdig documentation](https://github.com/xoofx/markdig)  and this [project documentation](wiki/MarkdownToPdf-Library).
 
 # Basic Usage
 
