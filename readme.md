@@ -21,8 +21,8 @@ For details, see [markdig documentation](https://github.com/xoofx/markdig)  and 
 The basic usage is pretty straightforward:
 
 - create an instance of `MarkdownToPdf`
-- optionally set-up the [page layout](pagesetup.md)
-- optionally modify or add [styles](styles.md)
+- optionally set-up the [page layout](../../wiki/Page-Setup)
+- optionally modify or add [styles](../../wiki/styles)
 - add the markdown text
 - save
 
@@ -40,9 +40,9 @@ pdf
 
 Please see the documentation for more information. Here are some sample PDF outputs: 
  
- - [Feature Overview (PDF)](output/book_alice.pdf)
+ - [Feature Overview (PDF)](https://github.com/tkubec/MarkdownToPdf/blob/master/Tests/output/book_alice.pdf)
  
- - [Entire book (PDF)](output/fatures.pdf)
+ - [Entire book (PDF)](https://github.com/tkubec/MarkdownToPdf/blob/master/Tests/output/features.pdf)
  
 # Installation
 
