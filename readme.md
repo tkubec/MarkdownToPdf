@@ -50,5 +50,10 @@ Please see the documentation for more information. Here are some sample PDF outp
 
 The library is available as a NuGet package: [![](https://img.shields.io/badge/nuget-v1.0-blue)](https://www.nuget.org/packages/MarkdownToPdf)
 
+# Plugins
+
+## Syntax highlighter
+[MarkdownToPdf.SyntaxHighlighter](https://github.com/tkubec/MarkdownToPdf.SyntaxHighlighter) based on PrismSharp currently supports over 270 programming languages and has 44 built in visual themes
+
 # License
 This software is released under the MIT license.
